@@ -1,4 +1,4 @@
-# Hola, soy @byramcis
+# Hola, soy Víctor Ramírez.
 
 Estoy interesado en contabilidad, finanzas y tecnología. Actualmente estoy aprendiendo técnicas avanzadas de contabilidad y análisis financiero. Estoy buscando colaborar en proyectos relacionados con el desarrollo de software de contabilidad y análisis de datos financieros.
 
